@@ -1,0 +1,13 @@
+# Core ML/DL
+torch
+transformers
+accelerate
+
+# Data handling
+numpy
+h5py
+nltk  # For BLEU score
+
+# Utilities
+tqdm
+matplotlib
